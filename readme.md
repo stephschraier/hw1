@@ -1,0 +1,1 @@
+This project was a website for a fictional company called Spatulas Are Us. It features a welcome page, a products page and an about the company page.
